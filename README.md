@@ -8,7 +8,7 @@ It uses IPFS (or any decentralized storage system) to store art files and record
 To empower artists worldwide by giving them full control and verifiable ownership of their digital creations — eliminating intermediaries and ensuring authenticity through blockchain technology.
 
 ## Key Features
-- **Upload Artwork:** Artists can upload their art with metadata and a decentralized storage hash.  
+- **Upload Artwork:** Artists can upload their art with metadata and a decentralized storage  hash.  
 - **Ownership Verification:** Each artwork is immutably linked to the artist’s Ethereum address.  
 - **Remove Artwork:** Artists retain control and can remove their work from the gallery at any time.  
 - **Public Transparency:** Anyone can view artwork details and verify authenticity.
