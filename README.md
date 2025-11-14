@@ -1,7 +1,7 @@
 # BlockGallery
 
 ## Project Description
-**BlockGallery** is a decentralized platform where artists can upload, showcase, and manage their digital artworks securely on the blockchain.  
+**BlockGallery** is a decentralized platform where artists can upload, and manage their digital artworks securely on the blockchain.  
 It uses IPFS (or any decentralized storage system) to store art files and records ownership transparently on Ethereum.
 
 ## Project Vision
